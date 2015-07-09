@@ -8,7 +8,6 @@ Setup
 
 .. code-block:: bash
 
-    $ go get
     $ go install
 
 Usage
@@ -16,5 +15,4 @@ Usage
 
 .. code-block:: bash
 
-    $ go get github.com/codegangsta/gin
-    $ gin
+    $ job-queue
