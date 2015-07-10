@@ -7,7 +7,7 @@ import (
 
 func main() {
 	jobcount := 100
-	workercount := 50
+	workercount := 10
 	jobs := make(chan int)
 	results := make(chan int)
 
